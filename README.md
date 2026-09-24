@@ -2,7 +2,7 @@
 
 # ANUBES0
 
-☥
+✞
 
 ```
 $ whoami --verbose
