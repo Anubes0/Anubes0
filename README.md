@@ -1,58 +1,60 @@
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="ANUBES0 — developer. Signal over noise." />
+  <img src="assets/id-card.svg" width="100%" alt="NET IDENTITY — handle: ANUBES0 · class: developer · status: active · exposure: minimal · scope: personal projects, current only" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Anubes0&label=NODE%20VISITS&color=ff003c&style=for-the-badge&abbreviated=true" alt="profile views" />
+</p>
+
+<p align="center">
+  <img src="assets/divider.svg" width="100%" alt="" />
+</p>
+
+<p align="center">
+  <img src="assets/sec-01-stack.svg" width="100%" alt="01 — STACK" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=js,py,html,css,react,ts,bootstrap&theme=dark&perline=7" alt="JavaScript · Python · HTML · CSS · React · TypeScript · Bootstrap" />
+</p>
+
 <div align="center">
-
-# ANUBES0
-
-```
-$ whoami --verbose
-> alias........ anubes0
-> role......... developer
-> exposure..... minimal
-> status....... active
-```
-
-</div>
-
+<details>
+<summary><b>INSTALLED MODULES</b> <code>// EXPAND</code></summary>
 <br>
-
-<div align="center">
-
-![STACK](https://img.shields.io/badge/STACK-ff2ec4?style=for-the-badge)
-
-<img src="https://skillicons.dev/icons?i=js,py,html,css,react,ts,bootstrap&theme=dark" alt="tech stack icons" />
-
+<img src="assets/stack-modules.svg" width="100%" alt="Installed modules: JavaScript, Python, HTML, CSS, React, TypeScript, Bootstrap" />
+</details>
 </div>
 
-<br>
+<p align="center">
+  <img src="assets/sec-02-projects.svg" width="100%" alt="02 — PROJECTS" />
+  <br><br>
+  <a href="REPO_LINK_1"><img src="https://github-stats-extended-khaki.vercel.app/api/pin/?username=Anubes0&repo=REPO_NAME_1&border_radius=0&bg_color=0a0b10&border_color=00f0ff&title_color=00f0ff&text_color=d7e3ea&icon_color=fcee0a" alt="REPO_NAME_1" /></a>
+  <a href="REPO_LINK_2"><img src="https://github-stats-extended-khaki.vercel.app/api/pin/?username=Anubes0&repo=REPO_NAME_2&border_radius=0&bg_color=0a0b10&border_color=00f0ff&title_color=00f0ff&text_color=d7e3ea&icon_color=fcee0a" alt="REPO_NAME_2" /></a>
+  <a href="REPO_LINK_3"><img src="https://github-stats-extended-khaki.vercel.app/api/pin/?username=Anubes0&repo=REPO_NAME_3&border_radius=0&bg_color=0a0b10&border_color=00f0ff&title_color=00f0ff&text_color=d7e3ea&icon_color=fcee0a" alt="REPO_NAME_3" /></a>
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="assets/sec-03-stats.svg" width="100%" alt="03 — STATS" />
+  <br><br>
+  <img src="https://github-stats-extended-khaki.vercel.app/api?username=Anubes0&show_icons=true&include_all_commits=true&border_radius=0&bg_color=0a0b10&border_color=fcee0a&title_color=fcee0a&text_color=d7e3ea&icon_color=00f0ff&ring_color=ff003c&custom_title=NET%20STATS%20%2F%2F%20ANUBES0" height="170" alt="GitHub stats" />
+  <img src="https://github-stats-extended-khaki.vercel.app/api/top-langs/?username=Anubes0&layout=compact&langs_count=6&border_radius=0&bg_color=0a0b10&border_color=fcee0a&title_color=fcee0a&text_color=d7e3ea&custom_title=TOP%20LANGUAGES" height="170" alt="Top languages" />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=Anubes0&border_radius=0&background=0A0B10&border=FCEE0A&stroke=5B6573&ring=FF003C&fire=FCEE0A&currStreakNum=FCEE0A&sideNums=D7E3EA&currStreakLabel=00F0FF&sideLabels=00F0FF&dates=5B6573" alt="Contribution streak" />
+</p>
 
-![PROJECTS](https://img.shields.io/badge/PROJECTS-00f0ff?style=for-the-badge)
+<p align="center">
+  <img src="assets/sec-04-activity.svg" width="100%" alt="04 — ACTIVITY" />
+  <br><br>
+  <img src="https://raw.githubusercontent.com/Anubes0/Anubes0/output/github-snake-cyber.svg" width="100%" alt="Contribution graph" />
+</p>
 
-</div>
+<p align="center">
+  <img src="assets/sec-05-comms.svg" width="100%" alt="05 — COMMS" />
+  <img src="assets/comms.svg" width="100%" alt="COMMS — channel: Discord · handle: sranubes" />
+  <br>
+  <code>discord: sranubes</code>
+</p>
 
-| Project | Description |
-| :--- | :--- |
-| [REPO_NAME_1](REPO_LINK_1) | DESCRIPTION_1 |
-| [REPO_NAME_2](REPO_LINK_2) | DESCRIPTION_2 |
-| [REPO_NAME_3](REPO_LINK_3) | DESCRIPTION_3 |
-
-<br>
-
-<div align="center">
-
-![STATS](https://img.shields.io/badge/STATS-d4af37?style=for-the-badge)
-
-<img src="https://https://github-stats-extended-frontend-sage-iota.vercel.app/.vercel.app/api?username=Anubes0&show_icons=true&theme=transparent&hide_border=true&bg_color=0d0b14&title_color=d4af37&text_color=e8dfc8&icon_color=ff2ec4" height="165" alt="github stats" />
-<img src="https://https://github-stats-extended-frontend-sage-iota.vercel.app/.vercel.app/api/top-langs/?username=Anubes0&layout=compact&theme=transparent&hide_border=true&bg_color=0d0b14&title_color=d4af37&text_color=e8dfc8" height="165" alt="top languages" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-![CONTACT](https://img.shields.io/badge/CONTACT-ff2ec4?style=for-the-badge)
-
-<img src="https://img.shields.io/badge/Discord-sranubes-0d0b14?style=for-the-badge&logo=discord&logoColor=ff2ec4&labelColor=0d0b14" alt="discord: sranubes" />
-
-</div>
+<p align="center">
+  <img src="assets/footer.svg" width="100%" alt="End of transmission" />
+</p>
