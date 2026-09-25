@@ -26,11 +26,19 @@
 </div>
 
 <p align="center">
+  <img src="assets/divider-02.svg" width="100%" alt="" />
+</p>
+
+<p align="center">
   <img src="assets/sec-02-projects.svg" width="100%" alt="02 — PROJECTS" />
   <br><br>
   <a href="REPO_LINK_1"><img src="https://github-stats-extended-khaki.vercel.app/api/pin/?username=Anubes0&repo=REPO_NAME_1&border_radius=0&bg_color=0a0b10&border_color=00f0ff&title_color=00f0ff&text_color=d7e3ea&icon_color=fcee0a" alt="REPO_NAME_1" /></a>
   <a href="REPO_LINK_2"><img src="https://github-stats-extended-khaki.vercel.app/api/pin/?username=Anubes0&repo=REPO_NAME_2&border_radius=0&bg_color=0a0b10&border_color=00f0ff&title_color=00f0ff&text_color=d7e3ea&icon_color=fcee0a" alt="REPO_NAME_2" /></a>
   <a href="REPO_LINK_3"><img src="https://github-stats-extended-khaki.vercel.app/api/pin/?username=Anubes0&repo=REPO_NAME_3&border_radius=0&bg_color=0a0b10&border_color=00f0ff&title_color=00f0ff&text_color=d7e3ea&icon_color=fcee0a" alt="REPO_NAME_3" /></a>
+</p>
+
+<p align="center">
+  <img src="assets/divider-03.svg" width="100%" alt="" />
 </p>
 
 <p align="center">
@@ -43,14 +51,23 @@
 </p>
 
 <p align="center">
+  <img src="assets/divider-04.svg" width="100%" alt="" />
+</p>
+
+<p align="center">
   <img src="assets/sec-04-activity.svg" width="100%" alt="04 — ACTIVITY" />
   <br><br>
   <img src="https://raw.githubusercontent.com/Anubes0/Anubes0/output/github-snake-cyber.svg" width="100%" alt="Contribution graph" />
 </p>
 
 <p align="center">
+  <img src="assets/divider-05.svg" width="100%" alt="" />
+</p>
+
+<p align="center">
   <img src="assets/sec-05-comms.svg" width="100%" alt="05 — COMMS" />
-  <img src="assets/comms.svg" width="100%" alt="COMMS — channel: Discord · handle: sranubes" />
+  <br><br>
+  <img src="assets/comms.svg" width="100%" alt="COMMS — channel: Discord · handle: sranubes · direct messages open" />
   <br>
   <code>discord: sranubes</code>
 </p>
